@@ -1,4 +1,4 @@
-# E-commerce-Price-Tracking-usng-Python
+# E-commerce-Price-Tracking-using-Python
 
 Implementing Web Scraping in Python with BeautifulSoup:
 --------------------------------------------------------
