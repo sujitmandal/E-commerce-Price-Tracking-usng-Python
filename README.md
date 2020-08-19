@@ -1,14 +1,9 @@
-# E-commerce-Price-Tracking-using-Python
-
-Implementing Web Scraping in Python with BeautifulSoup:
---------------------------------------------------------
- Introduction:
----------------
+## Implementing Web Scraping in Python with BeautifulSoup:
+## Introduction:
 Computer Vision is one of the hottest topics in artificial intelligence. It is making tremendous advances in self-driving cars, robotics as well as in various photo correction apps. Steady progress in object detection is being made every day. GANs is also a thing researchers are putting their eyes on these days. Vision is showing us the future of technology and we can’t even imagine what will be the end of its possibilities.
 So do you want to take your first step in Computer Vision and participate in this latest movement? Welcome you are at the right place. From this article, we’re going to have a series of tutorials on the basics of image processing and object detection
 
-	There are mainly two ways to extract data from a website:
------------------------------------------------------------
+##	There are mainly two ways to extract data from a website:
 •	Use the API of the website (if it exists). For example, Facebook has the Facebook Graph API which allows retrieval of data posted on Facebook.
 •	Access the HTML of the webpage and extract useful information/data from it. This technique is called web scraping or web harvesting or web data extraction.
 
@@ -17,61 +12,46 @@ So do you want to take your first step in Computer Vision and participate in thi
 2.	Once we have accessed the HTML content, we are left with the task of parsing the data. Since most of the HTML data is nested, we cannot extract data simply through string processing. One needs a parser which can create a nested/tree structure of the HTML data. There are many HTML parser libraries available but the most advanced one is html5lib.
 3.	Now, all we need to do is navigating and searching the parse tree that we created, i.e. tree traversal. For this task, we will be using another third-party python library, Beautiful Soup. It is a Python library for pulling data out of HTML and XML files.
 
- Requirement’s:
------------------
-
+## Requirement’s:
+```
 • Python 
 
 • Anaconda
 
 • Visual Studio Code
+```
+## LINK’S:
+• [Python Download](https://www.python.org/downloads/)
 
- LINK’S:
----------
+• [Anaconda Download](https://www.anaconda.com/downloads)
 
-• Python : 
-----------
-Download https://www.python.org/downloads/
+• [Visual Studio Download](https://code.visualstudio.com/Download)
 
-• Anaconda : 
-------------
-• Download https://www.anaconda.com/downloads
-
-• Visual Studio Code :
-----------------------
-Download https://code.visualstudio.com/Download
-
-•Linux:
-------
-How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
----------------------------------------------------------------------------------------------
+## Linux:
+ How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=Mfbrxy8gK6A)](https://www.youtube.com/watch?v=Mfbrxy8gK6A "How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |")
 
-• Windows:
--------
-
-• How to install | Python | | Anaconda | | Opencv library |
-------------------------------------------------------------
+##  Windows:
+How to install | Python | | Anaconda | | Opencv library |
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "How to install | Python | | Anaconda | | Opencv library |")
 
-
- Installing the required package’s:
--------------------------------------
-
+## Installing the required package’s:
+```
 •	pip install requests
 
 •	pip install bs4
+```
 
-License:
---------
+## License:
 MIT Licensed
 
-Author:
--------
+## Author:
 Sujit Mandal
 
-LinkedIn : https://www.linkedin.com/in/sujit-mandal-91215013a/
+[GitHub](https://github.com/sujitmandal)
 
-Facebook : https://www.facebook.com/sujit.mandal.33671748
+[LinkedIn](https://www.linkedin.com/in/sujit-mandal-91215013a/)
 
-Twitter : https://twitter.com/mandalsujit37
+[Facebook](https://www.facebook.com/sujit.mandal.33671748)
+
+[Twitter](https://twitter.com/mandalsujit37)
